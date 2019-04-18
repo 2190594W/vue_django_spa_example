@@ -22,7 +22,7 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
-## Navigate to the `spoonguru_frontend_v2` directory and proceed with the following commands to get the Vue.js frontend installed and running.
+## Navigate to the `spoonguru_frontend_v2` directory in a new terminal and proceed with the following commands to get the Vue.js frontend installed and running.
 
 ## Project setup
 ```
